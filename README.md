@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LemohangMarake
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning functions on C++
-- 💞️ I’m looking to collaborate on designing my own websites
+- 💞️ I’m looking to collaborate with interested people all over the world 
 - 📫 How to reach me lemohang.marake@bothouniversity.com 
 
 <!---
